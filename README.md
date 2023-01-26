@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManeeshReddyK
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me 8639085600.
 
 <!---
